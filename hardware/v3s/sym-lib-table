@@ -1,2 +1,3 @@
 (sym_lib_table
+  (lib (name SOC_Allwinner_V3S)(type Legacy)(uri /home/jjj/cherrypi-v3s/hardware/v3s/SOC_Allwinner_V3S.lib)(options "")(descr ""))
 )
