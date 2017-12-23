@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# SOC_Allwinner_V3S:V3S
+# x:V3S
 #
-DEF ~SOC_Allwinner_V3S:V3S U 0 40 Y Y 1 F N
+DEF ~x:V3S U 0 40 Y Y 1 F N
 F0 "U" -2500 2400 50 H V C CNN
-F1 "SOC_Allwinner_V3S:V3S" 300 200 50 H I C CNN
+F1 "x:V3S" 300 200 50 H I C CNN
 F2 "" -1150 -300 50 H I C CNN
 F3 "" -1150 -300 50 H I C CNN
 $FPLIST

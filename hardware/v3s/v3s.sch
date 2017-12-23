@@ -15,14 +15,14 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L SOC_Allwinner_V3S:V3S U1
-U 1 1 5A404065
-P 6000 3800
-F 0 "U1" H 8841 3921 50  0000 L CNN
-F 1 "V3S" H 8841 3830 50  0000 L CNN
-F 2 "Housings_QFP:LQFP-128_14x14mm_Pitch0.4mm" H 4850 3500 50  0001 C CNN
-F 3 "http://linux-sunxi.org/images/2/23/Allwinner_V3s_Datasheet_V1.0.pdf" H 4850 3500 50  0001 C CNN
-	1    6000 3800
+L x:V3S U?
+U 1 1 5A3ED1F1
+P 5850 3700
+F 0 "U?" H 8691 3775 50  0000 L CNN
+F 1 "V3S" H 6150 3900 50  0001 C CNN
+F 2 "" H 4700 3400 50  0001 C CNN
+F 3 "http://linux-sunxi.org/images/2/23/Allwinner_V3s_Datasheet_V1.0.pdf" H 4700 3400 50  0001 C CNN
+	1    5850 3700
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
