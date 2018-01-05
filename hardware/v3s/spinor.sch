@@ -14,4 +14,69 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+$Comp
+L X:W25Q128 U?
+U 1 1 5A4F81B9
+P 5550 3450
+F 0 "U?" H 5550 3865 50  0000 C CNN
+F 1 "W25Q128" H 5550 3774 50  0000 C CNN
+F 2 "" H 5850 3550 50  0001 C CNN
+F 3 "" H 5850 3550 50  0001 C CNN
+	1    5550 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5A4FEC72
+P 4850 3650
+F 0 "#PWR?" H 4850 3400 50  0001 C CNN
+F 1 "GND" H 4855 3477 50  0000 C CNN
+F 2 "" H 4850 3650 50  0001 C CNN
+F 3 "" H 4850 3650 50  0001 C CNN
+	1    4850 3650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4900 3600 4850 3600
+Wire Wire Line
+	4850 3600 4850 3650
+Wire Wire Line
+	6200 3400 6250 3400
+Wire Wire Line
+	6250 3400 6250 3300
+Wire Wire Line
+	6250 3300 6200 3300
+Wire Wire Line
+	4900 3500 4800 3500
+Wire Wire Line
+	4800 3500 4800 3150
+Wire Wire Line
+	4800 3150 6250 3150
+Wire Wire Line
+	6250 3150 6250 3300
+Connection ~ 6250 3300
+Wire Wire Line
+	6200 3500 6400 3500
+Wire Wire Line
+	6200 3600 6400 3600
+Wire Wire Line
+	4900 3400 4700 3400
+Wire Wire Line
+	4700 3400 4700 3800
+Wire Wire Line
+	4700 3800 6200 3800
+Wire Wire Line
+	6200 3800 6200 3700
+Wire Wire Line
+	6200 3700 6400 3700
+Wire Wire Line
+	4900 3300 4600 3300
+Wire Wire Line
+	4600 3300 4600 3900
+Wire Wire Line
+	4600 3900 6250 3900
+Wire Wire Line
+	6250 3900 6250 3800
+Wire Wire Line
+	6250 3800 6400 3800
 $EndSCHEMATC

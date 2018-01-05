@@ -1,0 +1,28 @@
+EESchema Schematic File Version 4
+LIBS:v3s-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 4 4
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L X:W25Q128 U?
+U 1 1 5A4F81B9
+P 5550 3450
+F 0 "U?" H 5550 3865 50  0000 C CNN
+F 1 "W25Q128" H 5550 3774 50  0000 C CNN
+F 2 "" H 5850 3550 50  0001 C CNN
+F 3 "" H 5850 3550 50  0001 C CNN
+	1    5550 3450
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
